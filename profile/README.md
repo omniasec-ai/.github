@@ -1,7 +1,7 @@
 ![Omnia Imagotype](https://omniasec.ai/omnia-imagotype.svg)
 
 
-[Omnia](https://docs.omniasec.ai) is an AI-powered platform designed to make the internet safer for everyone, from seasoned cybersecurity analysts to everyday users. Born from a shared passion for cybersecurity and a belief in the power of shared knowledge, Omnia serves as both a powerful tool and a vibrant community.
+[Omnia](https://omniasec.ai) is an AI-powered platform designed to make the internet safer for everyone, from seasoned cybersecurity analysts to everyday users. Born from a shared passion for cybersecurity and a belief in the power of shared knowledge, Omnia serves as both a powerful tool and a vibrant community.
 
 ## Our Mission
 
